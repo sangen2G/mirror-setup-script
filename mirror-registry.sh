@@ -80,7 +80,7 @@ echo "    and save it as: ${PULL_SECRET_FILE}"
 echo "-----------------------------------------------"
 echo ""
 echo "[INFO] Once done, run this script again with:"
-echo "       ./setup-mirror-and-oc-mirror.sh --continue"
+echo "       ./mirror-registry.sh --continue"
 exit 0
 fi
        
